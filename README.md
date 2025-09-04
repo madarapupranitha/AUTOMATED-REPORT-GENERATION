@@ -26,5 +26,6 @@
 
   OUTPUT:
 
-  (https://github.com/user-attachments/assets/552a2e94-75e1-402d-9d09-ea2754b43445)
-
+  (<img width="1414" height="733" alt="image" src="https://github.com/user-attachments/assets/9aaf58ca-236a-4cc4-bc28-94b145d4d213" />
+https://github.com/user-attachments/assets/552a2e94-75e1-402d-9d09-ea2754b43445)
+   

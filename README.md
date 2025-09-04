@@ -24,4 +24,6 @@
 
   In python libraries such as pandas ,matplotlib,requestlib.lab are used for data visualization. and analyzed the data.create a PDF report and save the PDF.
 
-   
+  OUTPUT:
+
+  [Image](!https://github.com/user-attachments/assets/54f80f4a-bc9f-40bc-8564-6e2b7c5225ab)
